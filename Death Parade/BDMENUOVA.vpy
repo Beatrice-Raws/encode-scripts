@@ -1,0 +1,12 @@
+from vapoursynth import core, GRAY
+import kagefunc as kf
+import cooldegrain as cd
+
+episode  = core.dgdecodenv.DGSource(r'.\..\index\BDMENUOVA.dgi')
+clipsrc = core.fmtc.bitdepth(episode, bits=16)
+mask = kf.retinex_edgemask(clipsrc.std.ShufflePlanes(0, GRAY), sigma=1).std.Expr('x 2 *')
+clip2 = cd.CoolDegrain(clipsrc, bits=16, thsad=48, thsadc=96, blksize=8, overlap=4)
+clip2 = core.f3kdb.Deband(clip2, range=8, y=36, cb=28, cr=28, grainy=32, grainc=12, output_depth=16, keep_tv_range=True)
+clip = core.std.MaskedMerge(clip2, clipsrc, mask, [0,1,2], first_plane=True)
+clip = core.fmtc.bitdepth(clip, bits=10)
+clip.set_output()
