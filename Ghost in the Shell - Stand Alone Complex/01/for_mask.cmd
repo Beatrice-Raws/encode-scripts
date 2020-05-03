@@ -1,0 +1,1 @@
+avs2yuv64 -nstdr for_mask.avs -o - | x264-x64-2901-aMod-noprof  --level 5.0 --qp 0  --output for_mask.264 --demuxer y4m   -
