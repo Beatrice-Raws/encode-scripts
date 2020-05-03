@@ -1,3 +1,5 @@
+# by shane#9837 (Discord)
+
 import vapoursynth as vs
 from collections import namedtuple
 from functools import partial
