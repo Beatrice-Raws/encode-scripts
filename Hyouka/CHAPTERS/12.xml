@@ -1,0 +1,149 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <EditionFlagDefault>0</EditionFlagDefault>
+    <EditionUID>7526387952249525428</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>13509461725580149417</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>A night before the Festival</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>15003961622860031143</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:02:18.013000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>OP</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>665625041368397985</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:03:48.019000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Tomoe, an older sister is back home</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>6851484709870065290</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:04:42.157000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Day of the Festival</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1311579733492582565</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:07:39.501000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Anthologies that pilled up</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>10003943141829014950</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:11:46.122000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>How to sell all those Anthologies</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>10571537724978805387</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:13:13.042000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Proclamation of a meeting opening</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>4294391141974797985</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:14:53.142000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Eru that lost to temptation (1)</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>12607426474340790207</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:16:28.529000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>A request for Tanabe</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>7152436458267010474</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:18:26.522000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Manga club</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>7457167467071848095</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:20:51.500000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Houtarou's tending a store</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>2020657763644504977</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:24:07.571000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Eru that lost to temptation (2)</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>11716756947965149590</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeStart>00:25:29.987000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>ED</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>18250703278408226970</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>next</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:26:59.993000000</ChapterTimeStart>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

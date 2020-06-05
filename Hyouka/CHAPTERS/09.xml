@@ -1,0 +1,129 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <EditionFlagDefault>0</EditionFlagDefault>
+    <EditionUID>18107401270210687415</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>14377463911150576800</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Those who assembled</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>9579900139841441973</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>OP</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:00:41.041000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>9328994005328526001</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Nakajou's deduction 1</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:02:11.005000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>5818703233341305273</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Nakajou's deduction 2</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:04:54.794000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>16614621484796154790</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Mayuka's objection</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:07:53.556000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3003320562081259144</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>The idea behind Nakajou's theory</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:09:25.773000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>16730309466854902944</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Tomohiro Haba's deduction</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:13:08.996000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>8255774314166507651</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>The idea behind Haba's theory</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:17:45.981000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>16347714675965288083</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Misaki Sawakiguchi's deduction</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:19:56.695000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>4888138291363529902</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>The idea behind Sawakiguchi's theory</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:22:59.878000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>14086387571755383209</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>ED</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:25:34.157000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>14213145626221831600</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>next</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:27:03.955000000</ChapterTimeStart>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

@@ -1,0 +1,139 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <EditionFlagDefault>0</EditionFlagDefault>
+    <EditionUID>462868129906027928</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>3469235237322144437</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Difference in opinions</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3169944470169971381</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>OP</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:00:40.039000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3800828533998255489</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Just two in the room</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:02:10.004000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>11435052688456267423</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Match of two</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:04:59.632000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>14712251775257211314</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Careful actions</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:07:10.555000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>5130698035903605174</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Interpretation of broadcasted message</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:10:16.699000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>9400565299956487838</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Chitanda's game</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:12:17.027000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>16875480567001766076</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Apology of suspect X</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:15:20.920000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>7457086564048463771</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Crime of suspect X</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:19:06.687000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>11529015625745888675</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>End of game</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:23:57.102000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3335942654671425696</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Complete surprise</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:25:17.224000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>17329796961710721206</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>ED</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:25:34.032000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>12103582535780935600</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>next</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:27:04.039000000</ChapterTimeStart>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

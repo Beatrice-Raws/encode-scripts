@@ -1,0 +1,129 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <EditionFlagDefault>0</EditionFlagDefault>
+    <EditionUID>15591096281828402592</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>12803291156594382008</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Trial quiz 7 begins</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>10269345855291474074</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>OP</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:00:28.028000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>2718300179123571127</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Trial quiz (1)</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:01:58.034000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>17145878320718996888</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Eru's bromide (1)</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:05:49.557000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>10987666560926693808</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Jumonji's fortunetelling</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:08:20.500000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>4190117067944956832</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Trial quiz (2)</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:10:22.955000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1300385478036922550</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Eru's bromide (2)</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:13:34.396000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>14407147992286506907</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Little girl's battle</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:15:19.043000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>4239334273113588142</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Literature club after school</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:20:16.506000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>336120067849936297</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Mayaka at home</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:22:05.032000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>15055122627237588922</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>ED</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:24:01.064000000</ChapterTimeStart>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>16441482076803282877</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>next</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:25:31.071000000</ChapterTimeStart>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
