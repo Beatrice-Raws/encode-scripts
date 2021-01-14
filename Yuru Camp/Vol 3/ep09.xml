@@ -1,0 +1,69 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionFlagDefault>0</EditionFlagDefault>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <EditionUID>13763247322614151583</EditionUID>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterUID>945453455654011541</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Avant</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:02:52.046866666</ChapterTimeStart>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterUID>3398818232076608416</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Part A</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:07:30.032911111</ChapterTimeStart>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterUID>16388112773777681799</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Part B</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:21:12.020733333</ChapterTimeStart>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterUID>13427845340186515368</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>ED</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:42.069022222</ChapterTimeStart>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterUID>5187076630150758275</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Room Camp</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:26.071333333</ChapterTimeStart>
+      <ChapterUID>4159421098815345845</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Next</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
