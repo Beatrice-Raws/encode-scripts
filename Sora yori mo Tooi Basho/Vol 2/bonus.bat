@@ -1,0 +1,13 @@
+x264-10bit-x64-2851 --level 5.0 --crf 15 --keyint 240 --deblock 1:-1  --bframes 9 --b-adapt 2 --ref 4 --deadzone-inter 21 --deadzone-intra 11 --qcomp 0.72 --aq-strength 0.85 --merange 32 --me umh --subme 9 --trellis 2 --direct spatial --no-mbtree --sar 1:1 --threads auto --colormatrix "bt709" --colorprim "bt709" --transfer "bt709" --output 05.264 --log-file 05.enc.log .\05.avs
+
+x264-10bit-x64-2851 --level 5.0 --crf 15 --keyint 240 --deblock 1:-1  --bframes 9 --b-adapt 2 --ref 4 --deadzone-inter 21 --deadzone-intra 11 --qcomp 0.72 --aq-strength 0.85 --merange 32 --me umh --subme 9 --trellis 2 --direct spatial --no-mbtree --sar 1:1 --threads auto --colormatrix "bt709" --colorprim "bt709" --transfer "bt709" --output 06.264 --log-file 06.enc.log .\06.avs
+
+x264-10bit-x64-2851 --level 5.0 --crf 15 --keyint 240 --deblock 1:-1  --bframes 9 --b-adapt 2 --ref 4 --deadzone-inter 21 --deadzone-intra 11 --qcomp 0.72 --aq-strength 0.85 --merange 32 --me umh --subme 9 --trellis 2 --direct spatial --no-mbtree --sar 1:1 --threads auto --colormatrix "bt709" --colorprim "bt709" --transfer "bt709" --output 07.264 --log-file 07.enc.log .\07.avs
+
+x264-10bit-x64-2851 --level 5.0 --crf 15 --keyint 240 --deblock 1:-1  --bframes 9 --b-adapt 2 --ref 4 --deadzone-inter 21 --deadzone-intra 11 --qcomp 0.72 --aq-strength 0.85 --merange 32 --me umh --subme 9 --trellis 2 --direct spatial --no-mbtree --sar 1:1 --threads auto --colormatrix "bt709" --colorprim "bt709" --transfer "bt709" --output 08.264 --log-file 08.enc.log .\08.avs
+
+x264-10bit-x64-2851 --level 5.0 --crf 15 --keyint 240 --deblock 1:-1  --bframes 9 --b-adapt 2 --ref 4 --deadzone-inter 21 --deadzone-intra 11 --qcomp 0.72 --aq-strength 0.85 --merange 32 --me umh --subme 9 --trellis 2 --direct spatial --no-mbtree --sar 1:1 --threads auto --colormatrix "bt709" --colorprim "bt709" --transfer "bt709" --output 09.264 --log-file 09.enc.log .\09.avs
+
+x264-10bit-x64-2851 --level 5.0 --crf 15 --keyint 240 --deblock 1:-1  --bframes 9 --b-adapt 2 --ref 4 --deadzone-inter 21 --deadzone-intra 11 --qcomp 0.72 --aq-strength 0.85 --merange 32 --me umh --subme 9 --trellis 2 --direct spatial --no-mbtree --sar 1:1 --threads auto --colormatrix "bt709" --colorprim "bt709" --transfer "bt709" --output 14.264 --log-file 14.enc.log .\14.avs
+
+x264-10bit-x64-2851 --level 5.0 --crf 15 --keyint 240 --deblock 1:-1  --bframes 9 --b-adapt 2 --ref 4 --deadzone-inter 21 --deadzone-intra 11 --qcomp 0.72 --aq-strength 0.85 --merange 32 --me umh --subme 9 --trellis 2 --direct spatial --no-mbtree --sar 1:1 --threads auto --colormatrix "bt709" --colorprim "bt709" --transfer "bt709" --output 15.264 --log-file 15.enc.log .\15.avs
