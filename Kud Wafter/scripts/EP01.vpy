@@ -9,7 +9,7 @@ from titleFunc import *
 core.augment(locals())
 
 # set cache size
-core.set_max_cache_size(30000)
+core.max_cache_size = 30000
 
 # load source
 source = core.dgdecodenv.DGSource(r'../index/jp_ver.dgi')
