@@ -1,0 +1,63 @@
+MUXOPT --no-pcr-on-video-pid --new-audio-pes --demux --vbr  --vbv-len=500
+#V_MPEG4/ISO/AVC, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00004.m2ts", fps=23.976, insertSEI, contSPS, track=4113
+A_LPCM, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00004.m2ts", track=4352, lang=jpn
+
+MUXOPT --no-pcr-on-video-pid --new-audio-pes --demux --vbr  --vbv-len=500
+#V_MPEG4/ISO/AVC, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00005.m2ts", fps=23.976, insertSEI, contSPS, track=4113
+A_LPCM, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00005.m2ts", track=4352, lang=jpn
+
+MUXOPT --no-pcr-on-video-pid --new-audio-pes --demux --vbr  --vbv-len=500
+#V_MPEG4/ISO/AVC, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00006.m2ts", fps=23.976, insertSEI, contSPS, track=4113
+A_LPCM, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00006.m2ts", track=4352, lang=jpn
+
+MUXOPT --no-pcr-on-video-pid --new-audio-pes --demux --vbr  --vbv-len=500
+#V_MPEG4/ISO/AVC, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00007.m2ts", fps=23.976, insertSEI, contSPS, track=4113
+A_LPCM, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00007.m2ts", track=4352, lang=jpn
+
+MUXOPT --no-pcr-on-video-pid --new-audio-pes --demux --vbr  --vbv-len=500
+V_MPEG4/ISO/AVC, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00008.m2ts", fps=23.976, insertSEI, contSPS, track=4113
+A_LPCM, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00008.m2ts", track=4352, lang=jpn
+
+MUXOPT --no-pcr-on-video-pid --new-audio-pes --demux --vbr  --vbv-len=500
+#V_MPEG4/ISO/AVC, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00009.m2ts", fps=23.976, insertSEI, contSPS, track=4113
+A_LPCM, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00009.m2ts", track=4352, lang=jpn
+
+MUXOPT --no-pcr-on-video-pid --new-audio-pes --demux --vbr  --vbv-len=500
+#V_MPEG4/ISO/AVC, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00010.m2ts", fps=23.976, insertSEI, contSPS, track=4113
+A_LPCM, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00010.m2ts", track=4352, lang=jpn
+
+MUXOPT --no-pcr-on-video-pid --new-audio-pes --demux --vbr  --vbv-len=500
+#V_MPEG4/ISO/AVC, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00011.m2ts", fps=23.976, insertSEI, contSPS, track=4113
+A_LPCM, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00011.m2ts", track=4352, lang=jpn
+
+MUXOPT --no-pcr-on-video-pid --new-audio-pes --demux --vbr  --vbv-len=500
+#V_MPEG4/ISO/AVC, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00012.m2ts", fps=23.976, insertSEI, contSPS, track=4113
+A_LPCM, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00012.m2ts", track=4352, lang=jpn
+
+MUXOPT --no-pcr-on-video-pid --new-audio-pes --demux --vbr  --vbv-len=500
+#V_MPEG4/ISO/AVC, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00013.m2ts", fps=23.976, insertSEI, contSPS, track=4113
+A_LPCM, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00013.m2ts", track=4352, lang=jpn
+
+MUXOPT --no-pcr-on-video-pid --new-audio-pes --demux --vbr  --vbv-len=500
+#V_MPEG4/ISO/AVC, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00014.m2ts", fps=23.976, insertSEI, contSPS, track=4113
+A_LPCM, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00014.m2ts", track=4352, lang=jpn
+
+MUXOPT --no-pcr-on-video-pid --new-audio-pes --demux --vbr  --vbv-len=500
+#V_MPEG4/ISO/AVC, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00015.m2ts", fps=23.976, insertSEI, contSPS, track=4113
+A_LPCM, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00015.m2ts", track=4352, lang=jpn
+
+MUXOPT --no-pcr-on-video-pid --new-audio-pes --demux --vbr  --vbv-len=500
+#V_MPEG4/ISO/AVC, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00016.m2ts", fps=23.976, insertSEI, contSPS, track=4113
+A_LPCM, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00016.m2ts", track=4352, lang=jpn
+
+MUXOPT --no-pcr-on-video-pid --new-audio-pes --demux --vbr  --vbv-len=500
+#V_MPEG4/ISO/AVC, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00017.m2ts", fps=23.976, insertSEI, contSPS, track=4113
+A_LPCM, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00017.m2ts", track=4352, lang=jpn
+
+MUXOPT --no-pcr-on-video-pid --new-audio-pes --demux --vbr  --vbv-len=500
+#V_MPEG4/ISO/AVC, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00018.m2ts", fps=23.976, insertSEI, contSPS, track=4113
+A_LPCM, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00018.m2ts", track=4352, lang=jpn
+
+MUXOPT --no-pcr-on-video-pid --new-audio-pes --demux --vbr  --vbv-len=500
+#V_MPEG4/ISO/AVC, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00019.m2ts", fps=23.976, insertSEI, contSPS, track=4113
+A_LPCM, "D:\ANIME\dliau2\Tawawa on Monday\BDMV\BDMV\STREAM\00019.m2ts", track=4352, lang=jpn
