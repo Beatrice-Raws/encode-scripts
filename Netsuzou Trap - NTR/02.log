@@ -1,0 +1,24 @@
+x264 [info]: 1920x1080p 1:1 @ 24000/1001 fps (cfr)
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2
+x264 [info]: profile High 10, level 5.0, 4:2:0 10-bit
+x264 [info]: cabac=1 ref=4 deblock=1:1:-1 analyse=0x3:0x113 me=umh subme=9 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=32 chroma_me=1 trellis=2 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=34 lookahead_threads=5 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=9 b_pyramid=2 b_adapt=2 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=240 keyint_min=23 scenecut=40 intra_refresh=0 rc=crf mbtree=0 crf=15.0000 qcomp=0.72 qpmin=0 qpmax=81 qpstep=4 ip_ratio=1.40 pb_ratio=1.30 aq=1:0.85
+x264 [info]: frame I:136   Avg QP:21.02  size:290622
+x264 [info]: frame P:2928  Avg QP:22.50  size: 94417
+x264 [info]: frame B:9907  Avg QP:23.41  size: 25189
+x264 [info]: consecutive B-frames:  4.4%  3.4%  5.3% 17.1% 14.9% 36.2%  9.0%  7.2%  1.6%  1.0%
+x264 [info]: mb I  I16..4:  5.6% 80.1% 14.3%
+x264 [info]: mb P  I16..4:  1.4%  9.1%  1.6%  P16..4: 45.6% 18.1% 12.2%  0.0%  0.0%    skip:11.8%
+x264 [info]: mb B  I16..4:  0.1%  0.6%  0.1%  B16..8: 34.2%  4.7%  1.4%  direct:12.2%  skip:46.7%  L0:44.0% L1:49.8% BI: 6.2%
+x264 [info]: 8x8 transform intra:76.1% inter:59.5%
+x264 [info]: coded y,uvDC,uvAC intra: 90.5% 88.0% 78.2% inter: 18.8% 41.1% 19.3%
+x264 [info]: i16 v,h,dc,p: 19% 32%  3% 46%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 10%  9%  3% 11% 15% 14% 14% 11% 13%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 16%  8%  2% 11% 16% 15% 12% 11% 10%
+x264 [info]: i8c dc,h,v,p: 44% 22% 19% 14%
+x264 [info]: Weighted P-Frames: Y:9.6% UV:8.1%
+x264 [info]: ref P L0: 60.5% 25.1% 13.6%  0.7%  0.1%
+x264 [info]: ref B L0: 78.2% 18.2%  3.6%
+x264 [info]: ref B L1: 89.1% 10.9%
+x264 [info]: kb/s:8362.70
+x264 [info]: encoded 12971 frames, 1.00 fps, 8362.70 kb/s, duration 3:36:09.72
