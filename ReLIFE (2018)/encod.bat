@@ -1,0 +1,4 @@
+avs2yuv64 -nstdr BONUS1.avs -o - | x264-10bit-x64-2851-avx2-2 --level 5.0 --crf 15 --keyint 240 --deblock 1:-1  --bframes 9 --b-adapt 2 --ref 4 --deadzone-inter 21 --deadzone-intra 11 --qcomp 0.72 --aq-strength 0.85 --merange 32 --me umh --subme 9 --trellis 2 --direct spatial --no-mbtree --sar 1:1 --threads auto --colormatrix "bt709" --colorprim "bt709" --transfer "bt709" --output BONUS1.264 --log-file BONUS1.enc.log --demuxer y4m   -
+
+avs2yuv64 -nstdr BONUS2.avs -o - | x264-10bit-x64-2851-avx2-2 --level 5.0 --crf 15 --keyint 240 --deblock 1:-1  --bframes 9 --b-adapt 2 --ref 4 --deadzone-inter 21 --deadzone-intra 11 --qcomp 0.72 --aq-strength 0.85 --merange 32 --me umh --subme 9 --trellis 2 --direct spatial --no-mbtree --sar 1:1 --threads auto --colormatrix "bt709" --colorprim "bt709" --transfer "bt709" --output BONUS2.264 --log-file BONUS2.enc.log --demuxer y4m   -
+
