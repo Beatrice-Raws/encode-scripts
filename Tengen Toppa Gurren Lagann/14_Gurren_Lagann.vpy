@@ -121,7 +121,39 @@ for i in range(1436, 1535):
 
 DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\09_Gurren_Lagann_1535.webp'), "1535")
 
-for i in range(27822, 27912):
+for i in range(27822, 27831):
+    mask_path = fr'masks\14_Gurren_Lagann_{i}.webp'
+    DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, mask_path), str(i))
+
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27829.webp'), "27831")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27832")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27829.webp'), "27833")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27834")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27829.webp'), "27835")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27836")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27837")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27838")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27839")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27840")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27841")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27842")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27843")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27844")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27845")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27846")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27847")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27848")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27849")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27850")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27851")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27852")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27853")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27854")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27855")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27856")
+DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, r'masks\14_Gurren_Lagann_27830.webp'), "27857")
+
+for i in range(27858, 27912):
     mask_path = fr'masks\14_Gurren_Lagann_{i}.webp'
     DD_clip = fvf.rfs(DD_clip, ApplyImageMask(weakest_denoise_deband, strong_denoise_deband, mask_path), str(i))
 
